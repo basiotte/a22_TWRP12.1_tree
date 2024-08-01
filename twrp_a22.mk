@@ -35,7 +35,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,device/samsung/a22/recover
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := twrp_a22
 PRODUCT_DEVICE := a22
-PRODUCT_MODEL := SM-A225M-U8
+PRODUCT_MODEL := SM-A225M
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung-ss
