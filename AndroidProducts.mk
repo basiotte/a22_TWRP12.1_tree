@@ -17,5 +17,7 @@
 PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/twrp_a22.mk
 
-COMMON_LUNCH_CHOICES := twrp_a22-eng
-COMMON_LUNCH_CHOICES := twrp_a22-userdebug
+COMMON_LUNCH_CHOICES := \
+	twrp_a22-user
+	twrp_a22-userdebug
+	twrp_a22-eng
